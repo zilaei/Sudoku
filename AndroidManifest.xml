@@ -15,4 +15,5 @@
                   android:label="@string/about_title">
         </activity>
     </application>
-</manifest> 
+</manifest>
+
